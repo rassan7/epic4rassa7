@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head><title>
+            Lời giải sốc biểu tượng đầu lâu xương chéo ám ảnh con người - Báo Kiến Thức
+        </title><meta name="referrer" content="unsafe-url" />
+        <link rel="canonical" href="https://baomoi.com/loi-giai-soc-bieu-tuong-dau-lau-xuong-cheo-am-anh-con-nguoi/c/32037114.epi" />
+        <meta name="description" content="Đầu lâu xương chéo trở thành một biểu tượng nổi tiếng lịch sử khi được người xưa sử dụng rộng rãi trong suốt nhiều thế kỷ. Biểu tượng này mang nhiều ý nghĩa và xuất hiện ở nhiều nơi trên thế giới." />
+        <meta name="keywords" content="đầu lâu,xương,lời giải,biểu tượng,người xưa,ám ảnh,sốc,cướp biển,thế kỷ,chết chóc,vĩnh hằng,rộng rãi,những là,độc hại,con người,nghĩa địa,USS Jimmy Carter,tàu thuyền,phân hủy,trong suốt" />
+    
+        <script async>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r;
+                i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o),
+                        m = s.getElementsByTagName(o)[0];
+                a.async = 1;
+                a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+            ga('create', 'UA-309591-61', 'auto');
+            ga('send', 'pageview', {'page': window.location.pathname + window.location.search + window.location.hash});
+        </script>
+    </head>
+    <body onpageshow="load()" onload="load()">
+        <input type="hidden" class="bm-track" data-key="web_all" data-value="" />
+        <input type="hidden" class="bm-track" data-key="web_article" data-value="32037114" />
+        <input type="hidden" class="bm-track" data-key="web_article_redirect" data-value="32037114" />
+        <script src="//baomoi-static.zadn.vn/web/js/tracking-dist.js?v=1.2.0"></script>
+
+        <script type="text/javascript">
+        var isRedirected = false;
+        function redirect() {
+            if (!isRedirected) {
+                isRedirected = true;
+                var userAgent = navigator.userAgent.toLowerCase();
+                var isBot = /bot|googlebot|crawler|spider|robot|crawling/i.test(userAgent);
+
+                if (!isBot)
+                    window.location.replace("http://kienthuc.net.vn/kho-tri-thuc/loi-giai-soc-bieu-tuong-dau-lau-xuong-cheo-am-anh-con-nguoi-1268504.html");
+                else
+                    window.location.replace("/loi-giai-soc-bieu-tuong-dau-lau-xuong-cheo-am-anh-con-nguoi/c/32037114.epi");
+            }
+        }
+        function load() {
+            setTimeout(redirect, 100);
+        }
+        </script>
+
+    </body>
+</html>

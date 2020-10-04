@@ -1,0 +1,140 @@
+## intent:give_name
+- [Anh](cust_sex) là [Thắng](cust_name)
+- [Anh](cust_sex) tên là [Son](cust_name)
+- [Chị](cust_sex) tên là [Hằng](cust_name)
+- [Em](cust_sex) là [Trang](cust_name)
+- [Cô](cust_sex) [Vân](cust_name)
+- [Chú](cust_sex) [Hùng](cust_name)
+## intent:greet
+- xin chào
+- chào bạn
+- hello
+- hi
+- hey
+- mình có vài câu hỏi
+- có ai giúp mình không
+- bạn ơi
+- anh ơi
+- chị ơi
+- cháu ơi
+- con ơi
+- hello 
+- chào 
+- hi 
+- có ai ở đây không?
+- có ai không ?
+- có ai đó không?
+## intent:bye
+- tạm biệt
+- chào tạm biệt
+- chào tạm biệt em
+- tạm biệt em
+- tạm biệt em nhé
+- tạm biệt
+
+## intent:thank
+- chuẩn
+- hay
+- siêu
+- tuyệt
+- cám ơn
+- thanks
+- thank you
+- ok
+- cảm ơn em
+- cảm ơn em nhiều nhé
+- cảm ơn
+- hay thế
+## intent:ask_func_list
+- bạn có thể làm được những gì
+- bạn giúp được gì nào
+- chức năng của bạn là gì
+- bạn có thể làm được mấy chức năng
+- bạn giỏi nhất làm gì
+- bạn có tư vấn giúp mình được không
+- việc gì bạn làm được
+- kể xem bạn làm được gì
+- cho mình biết bạn làm được gì nhé
+- bạn hữu dụng như thế nào
+- bạn có ích trong những việc gì
+- lĩnh vực gì bạn giỏi nhất
+- mình tò mò về những việc bạn làm được
+- chẳng biết bạn làm được gì
+- bạn tệ nhất trong việc gì
+- bạn biết được những lĩnh vực gì
+- bạn giỏi hỗ trợ nhất trong lĩnh vực gì
+- kể cho mình biết những việc bạn có thể làm được nhé
+- nói cho mình về những việc bạn giúp được mình
+- bạn giúp được mình gì nào
+- bạn có thể làm gì
+- em giúp được gì
+- em làm được gì
+- mày biết làm gì
+- em biết làm gì
+- bạn biết làm gì
+- biết làm gì
+- làm được gì 
+- có làm được gì 
+- có làm được trò gì 
+- giúp giúp cái gì
+- biết gì mà nói
+- làm được gì
+- giúp được gì
+- mày làm được gì
+- có biết gì 
+
+## intent:ask_name
+- bạn tên gì
+- tên gì
+- chị tên gì
+- anh tên gì
+- tên của bạn là gì
+- tên của chị là gì
+- tên của anh là gì
+- cho mình hỏi tên nhé
+- mình muốn biết tên bạn
+- mình muốn tiện xưng hộ hơn, cho mình biết tên nhé
+- để tiện xưng hộ thì tên bạn là gì
+- cho em xin tên của anh ạ
+- cho em xin tên của chị ạ
+- được biết tên bạn thì tốt nhỉ
+- vui lòng cho mình biết tên nhé
+- xin phép hỏi tên của bạn
+- vậy thì tên bạn là gì
+- tên bạn trong tiếng việt là gì
+- bạn có vui lòng cho mình biết tên được không
+- chúng ta nên biết tên nhau nhỉ?
+- em tên là gì thế
+- tên em là gì
+- tên em 
+- tên bạn 
+- bạn tên là gì 
+- bạn tên gì thế
+- em tên gì
+
+## intent:ask_old
+- bạn bao nhiêu tuổi
+- bạn mấy tuổi rồi
+- mày mấy tuổi rồi
+- em mấy tuổi rồi 
+## intent:ask_weather
+- thời tiết hôm nay
+- thời tiết hôm nay thế nào 
+- thời tiết hôm nay ra sao
+- nhiệt độ bây giờ
+- bây giờ nhiệt độ như thế nào
+- trời hôm nay có mưa không 
+- hôm nay trời có mưa không 
+- hôm nay có mưa lớn không
+- trời hôm nay đẹp không
+- thời tiết 
+- thời tiết bây giờ?
+- nhiệt độ hiện tại
+
+## intent:love
+- có người yêu chưa
+- có ai thích chưa
+- yêu ai chưa 
+- có ai theo đuổi chưa
+- người yêu bạn tên gì 
+- tên người yêu
